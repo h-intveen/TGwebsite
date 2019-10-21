@@ -102,12 +102,12 @@ Geef toestemming om locatie te gebruiken.
 ## Zoekresultaat kaart
 ![Zoeken kaart resultaat](images/TG-Home-Kaart-Result.png)
 
-Kies object en bekijk detail informatie
+[Kies object en bekijk detail informatie](#/2/2)
 
 ---
 
 <!-- .slide: data-menu-title="Zoeken via (sub)categorie" -->
-## Zoeken via (sub)categorie
+## Zoeken via Categorie
 
 Hoofdcategorie
 
@@ -125,6 +125,17 @@ Klik op een hoofdcategorie
 Kies een subcategorie om de resultaten te tonen
 
 --
+
+<!-- .slide: data-menu-title="Subcategorie Restaurant" -->
+## Subcategorie Restaurant
+![Zoeken categorie](images/TG-Home-Subcategory-Restaurant.png)
+
+[Bekijk object](#/2/2) of vergelijk
+
+Note:
+<a href="#/some-slide">Link</a>
+
+---
 
 <!-- .slide: data-background-image="images/Thats_all_Folks.jpg" data-background-opacity="1.0" -->
 

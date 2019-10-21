@@ -70,7 +70,7 @@ Maak je keuze en klik op "Zoeken" om het snelzoeken te starten.
 
 --
 
-<!-- .slide: data-menu-title="Zoek resultaten" -->
+<!-- .slide: data-menu-title="Zoekresultaten" -->
 **Zoekresultaten**
 
 ![Zoekresultaten](images/TG-Home-zoek-result.png)
@@ -79,8 +79,24 @@ Resultaten kunnen worden vergeleken
 
 --
 
-<!-- .slide: data-menu-title="Zoekresultaat" -->
-**Zoekresultaat**
+<!-- .slide: data-menu-title="Objectvoorbeeld" -->
+## Objectvoorbeeld
+
+![Eesultaat object](images/TG-Home-Result-Object.png)
+
+Gebruikers feedback mogelijk
+
+--
+
+<!-- .slide: data-menu-title="Rapporteer onjuiste informatie" -->
+## Onjuiste informatie rapporteren
+
+![Eesultaat object report](images/TG-Home-Result-Object-Report.png)
+
+--
+
+<!-- .slide: data-menu-title="Zoekresultaat rubrieken" -->
+## Zoekresultaat Rubrieken
 
 - Algemeen, Openingstijden, OV, Parkeren
 - Aanlooproute, Entree
@@ -102,7 +118,7 @@ Geef toestemming om locatie te gebruiken.
 ## Zoekresultaat kaart
 ![Zoeken kaart resultaat](images/TG-Home-Kaart-Result.png)
 
-[Kies object en bekijk detail informatie](#/2/2)
+[Kies object en bekijk detail informatie](#/2/4)
 
 ---
 
@@ -130,13 +146,12 @@ Kies een subcategorie om de resultaten te tonen
 ## Subcategorie Restaurant
 ![Zoeken categorie](images/TG-Home-Subcategory-Restaurant.png)
 
-[Bekijk object](#/2/2) of vergelijk
+[Bekijk object](#/2/4) of vergelijk
 
 Note:
 <a href="#/some-slide">Link</a>
+</br></br></br>
 
 ---
 
 <!-- .slide: data-background-image="images/Thats_all_Folks.jpg" data-background-opacity="1.0" -->
-
-</br></br></br>

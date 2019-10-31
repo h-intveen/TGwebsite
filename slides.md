@@ -156,9 +156,9 @@ Note:
 
 <!-- .slide: data-background-image="images/Thats_all_Folks.jpg" data-background-opacity="1.0" -->
 
----
+--
 
-<!-- .slide: data-menu-title="Subcategorie Restaurant" -->
+<!-- .slide: data-menu-title="Live demo" -->
 ## Live website demo
 
 [www.ToegankelijkGroningen.nl](www.ToegankelijkGroningen.nl)

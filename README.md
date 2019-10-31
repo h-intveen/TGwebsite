@@ -1,2 +1,2 @@
-# Keurmeester
-Keurmeester documentatie Toegankelijk Groningen website 
+# User
+Gebruikers functionaliteit Toegankelijk Groningen website 

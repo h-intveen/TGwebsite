@@ -96,12 +96,12 @@ Gebruikers feedback mogelijk
 --
 
 <!-- .slide: data-menu-title="Zoekresultaat rubrieken" -->
-## Zoekresultaat Rubrieken
+## Zoekresultaat - Gegevens
 
 - Algemeen, Openingstijden, OV, Parkeren
 - Aanlooproute, Entree
 - Overnachten/Hotel, Sanitair, Verdiepingen
-- Aanpassingen. Vooerzienmingen, Assistentie
+- Aanpassingen. Voorzieningen, Assistentie
 - Zichtbeperking, Hoorbeperking
 
 ---

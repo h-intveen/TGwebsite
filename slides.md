@@ -161,4 +161,4 @@ Note:
 <!-- .slide: data-menu-title="Live demo" -->
 ## Live website demo
 
-[www.ToegankelijkGroningen.nl](www.ToegankelijkGroningen.nl)
+<a href="http://www.ToegankelijkGroningen.nl">www.ToegankelijkGroningen.nl</a>

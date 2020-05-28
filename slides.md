@@ -8,19 +8,14 @@ op elk device
 **Korte handleiding**
 
 Note:
-  Webserver presentation, so start server in slides directory
-  Slides reside in repository in Projects folder:
-  MacOS
-    Start server in terminal window (i.e. in slides directory)
-      python3 -m http.server 9000 (Python3)
-    View by browsing to:
-      http://localhost:9000 (Python3)
-  Windows:
-    Install extension: HTTP Server / HTML Preview
-    Start server in terminal window
-      Press <Fn> & F1
-      Type: Simple HTTP server: Create HTTP Server <enter>
-      Choose where it should run
+  Initial setup reveal.js presentation
+    Create Github repository and 'git clone' repository to the local Projects folder
+    Copy all files excluding the .git folder from another reveal setup into this folder
+    Edit the slides.md in VsCodium to make the reveal.js presentation
+    Stage all changes and commit them to GitHub
+    ###
+  Reveal.js is a webserver presentation, so start server in slides directory
+     View live website via extension "Live server": Start "Go live" in bottom bar.
   Hidden features:
   - Speaker notes window : hit »S« on your keyboard.
   - Pause presentation :  hit »B« or ».«
@@ -33,7 +28,7 @@ Note:
     -  Change the Layout to Landscape.
     -  Change the Margins to None.
     -  Enable the Background graphics option.
-    -  Click Save.
+    -  Click Save
 
 ---
 

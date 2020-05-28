@@ -154,6 +154,17 @@ Note:
 
 ---
 
+<!-- .slide: data-menu-title="Toekomst Platform Toegankelijk Groningen" -->
+## Toekomst Platform Toegankelijk Groningen
+- Benaderd door Marketing Groningen
+  - Toegankelijkheid Waddengebied
+  - Open voor samenwerking v.w.b. Toegankelijkheid
+- Potentiele boost voor platform
+- Mogelijkheid wordt momenteel onderzocht
+- Test test
+
+---
+
 <!-- .slide: data-background-image="images/Thats_all_Folks.jpg" data-background-opacity="1.0" -->
 
 --

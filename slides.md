@@ -156,6 +156,8 @@ Note:
   - Open voor samenwerking v.w.b. Toegankelijkheid
 - Potentiele boost voor platform
 - Mogelijkheid wordt momenteel onderzocht
+  - kosten inzichtelijk
+  - fondswerving loopt goed
 
 ---
 
